@@ -11,6 +11,7 @@ h1 {
     text-align: center;
 }
 
+
 header {
     text-align: center;
     background-color: #333;
@@ -67,4 +68,11 @@ header {
 
 .info a:hover {
     background-color: #555;
+}
+
+footer {
+    background-color: white;
+}
+footer h1 {
+    color: black;
 }
