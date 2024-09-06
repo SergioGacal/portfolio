@@ -107,3 +107,8 @@ nav {
 .menu a:hover {
     color: #ddd;
 }
+
+#about {
+    text-align: center;
+    color: yellow;
+}
